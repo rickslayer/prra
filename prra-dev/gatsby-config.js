@@ -38,10 +38,10 @@ module.exports = {
         name: `PRRA Dev`,
         short_name: `PRRADev`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
+        background_color: `#154d40`,
         theme_color: `#154d40`,
         display: `standalone`,
-        icon:`src/imgs/favicon.png`
+        icon:`static/imgs/favicon.png`
       },
     },
     {
